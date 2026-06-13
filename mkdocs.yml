@@ -1,0 +1,13 @@
+site_name: SIEM Analyzer Documentation
+theme:
+  name: readthedocs
+plugins:
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_source: true
+            show_root_heading: true
+nav:
+  - Главная: index.md
+  - API Reference: api.md
