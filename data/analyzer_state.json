@@ -1,4 +1,4 @@
 {
-  "data_file": "..\\data\\events.json",
+  "data_file": "data\\events.json",
   "severity_threshold": 5
 }

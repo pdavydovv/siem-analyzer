@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T16:47:44.193151",
+  "generated_at": "2026-06-13T17:22:49.213485",
   "configuration": {
-    "data_file": "..\\data\\events.json",
+    "data_file": "data\\events.json",
     "severity_threshold": 5
   },
   "statistics": {
